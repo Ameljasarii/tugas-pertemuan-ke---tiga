@@ -1,0 +1,19 @@
+## konversi suhu
+
+#include <iostream>
+Using namespace std;
+
+int main (int argc, char** argv)  {
+         Cout<<"konversi suhu";
+ 
+         Flout c,f,r
+         Cout<<"masukan suhu (celcius):";
+         Cin>>c;
+         f=(c*1.8)+32;
+         r=c*0.8;
+         Cout<<endl;
+         Cout<<"hasil konversi suhu dari celcius ke:"<<endl;
+         Cout<<"fahrenheit:"<<f<<;
+         Cout<<"reamur:<<r<<;
+
+         return 0;
